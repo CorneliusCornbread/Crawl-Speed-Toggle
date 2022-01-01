@@ -1,0 +1,24 @@
+{
+  "_id": -1,
+  "name": "Crawl Speed Toggle",
+  "modversion": "1.0.0",
+  "vrchatversion": "1160",
+  "loaderversion": "0.5.2",
+  "modtype": "Mod",
+  "author": "CorneliusCornbread",
+  "description": "Allows you to toggle your speed to crawl speed",
+  "searchtags": [
+    "crawl",
+    "toggle",
+    "speed",
+    "corn"
+  ],
+  "requirements": [
+    "[VRChatUtilityKit](https://github.com/loukylor/VRC-Mods/tree/main/VRChatUtilityKit)",
+    "[UIExpansionKit](https://github.com/knah/VRCMods/tree/master/UIExpansionKit)"
+  ],
+  "downloadlink": "https://github.com/CorneliusCornbread/Crawl-Speed-Toggle/releases/download/1.0.0/CrawlSpeedToggle.dll",
+  "sourcelink": "https://github.com/CorneliusCornbread/Crawl-Speed-Toggle",
+  "changelog": "Initial version where things actually work properly. \n- Button that does the thing. \n- Yeah that's it",
+  "embedcolor": "#0db53a"
+}
