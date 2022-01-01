@@ -1,14 +1,9 @@
-﻿using System.Data.SqlTypes;
-using Il2CppSystem;
-using MelonLoader;
+﻿using MelonLoader;
 using UIExpansionKit.API;
-using UnhollowerBaseLib;
 using UnityEngine;
-using UnityEngine.Events;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 using VRC.Core;
 using VRC.SDKBase;
+using VRChatUtilityKit.Utilities;
 
 namespace CorneliusCornbread
 {
@@ -38,7 +33,7 @@ namespace CorneliusCornbread
             
             InitUI();
 
-            VRChatUtilityKit.Utilities.NetworkEvents.OnAvatarInstantiated += OnPlayerInstantiate;
+            NetworkEvents.OnAvatarInstantiated += OnPlayerInstantiate;
         }
 
         private static void InitUI()
