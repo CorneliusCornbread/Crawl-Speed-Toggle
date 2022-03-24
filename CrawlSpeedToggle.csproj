@@ -764,9 +764,11 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="CTModSetting.cs" />
+        <Compile Include="CornUtils.cs" />
+        <Compile Include="CTPreferences.cs" />
         <Compile Include="ModBuildInfo.cs" />
         <Compile Include="CrawlSpeedToggle.cs" />
+        <Compile Include="PlayerSpeed.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

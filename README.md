@@ -1,5 +1,5 @@
 # Crawl-Speed-Toggle
-A simple mod for VRChat that adds a toggle in the quick menu to change your speed to crawl speed, regardless of your height from the ground. For when worlds have risky functions disabled but you just want to slow down.
+A simple mod for VRChat that adds settings for walk and crawl speed toggles with configurable speeds (capped at the world speed of course), regardless of your height from the ground. For when worlds have risky functions disabled but you just want to slow down.
 
 # Requires
 [VRChatUtilityKit](https://github.com/loukylor/VRC-Mods/tree/main/VRChatUtilityKit)  
