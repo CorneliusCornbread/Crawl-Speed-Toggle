@@ -16,4 +16,4 @@ A simple mod for VRChat that adds settings for walk and crawl speed toggles with
 
 *We* are VRChat Modders. *We* modify VRChat to serve the goals of the average user and VRChat developer both. *We* empower users to collectively enjoy VRChat as best it can be enjoyed, despite technical difficulties. *We* strive to create an accepting environment for users of all backgrounds.
 
-*We* are VRChat Modders, and *we* envision a VRChat that nullifies any need for us or the mods we create.
+*We* are VRChat Modders, and *we* envision a VRChat that nullifies any need for us, or the mods we create.
