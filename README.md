@@ -11,5 +11,5 @@ A simple mod for VRChat that adds settings for walk and crawl speed toggles with
 [Knah/UIExpansionKit](https://github.com/knah/VRCMods/tree/master/UIExpansionKit) - Hella awesome toolkit for making UI easily AND helped answer some questions.  
 [loukylor/SleepyVRC/VRChatUtilityKit](https://github.com/loukylor/VRC-Mods/tree/main/VRChatUtilityKit) - Prvoided some callbacks which I needed, also loukylor answered some questions in Discord too.
 
-## VRChat Modder Manifesto
+## VRChat Modders For Good
 [Please read me](https://gist.github.com/CorneliusCornbread/68c382f0d88a22ff352a0a382d5566b4)
